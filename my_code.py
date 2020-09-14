@@ -2,11 +2,11 @@
 #  
 
 def find_gcf(x,y):   # Do not change function name!
-    # User code goes here
 
+    
 
-    return gcf
-
+x = 21
+y = 14
 
 if __name__ == '__main__':
     # Test your code with this first
